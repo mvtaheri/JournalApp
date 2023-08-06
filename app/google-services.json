@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "320542206267",
+    "project_id": "journal-kotlin",
+    "storage_bucket": "journal-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320542206267:android:e3e4c206bc87fdd6346f1e",
+        "android_client_info": {
+          "package_name": "com.mohammad.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320542206267-eo2kcvplvs9n6vmh57u1c482egr0lnpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohammad.journalapp",
+            "certificate_hash": "635c92bf506cadac811f36cbab731087e2f8bce3"
+          }
+        },
+        {
+          "client_id": "320542206267-5atkn7ti0a8ivrigii815fq2t43l151p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9sGDXYcdDHgIc_RByDTcUgGwb9KmJfjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320542206267-5atkn7ti0a8ivrigii815fq2t43l151p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
